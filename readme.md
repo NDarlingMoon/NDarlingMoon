@@ -32,5 +32,3 @@ Security patches: Daily
 Regression models: Optimized
 Confidence intervals: 95%
 ```
-
-sudo rm -rf /
