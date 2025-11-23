@@ -1,7 +1,7 @@
 # 🌟Cure Up RaPaPa❣️
 ```bash
 # USER PROFILE
-USER="A̸n̶n̵a̷ ̷M̶o̷z̶a̴r̵t̴ / N̶e̷r̸o̶ ̸H̷a̴z̵i̵e̶l̸
+USER="A̸n̶n̵a̷ ̷M̶o̷z̶a̴r̵t̴ / N̶e̷r̸o̶ ̸H̷a̴z̵i̵e̶l̸ "
 PRONOUNS_PT="Ela/Delu"
 PRONOUNS_FR="Elle/Ellui" 
 PRONOUNS_EN="She/Them"
