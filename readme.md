@@ -26,7 +26,7 @@ STATISTICS_FRAMEWORKS=("rstudio" "ggplot2" "dplyr" "shiny" "tidyr")
 ● data-visualization.service   [ACTIVE]
 
 # UPTIME
-System operational since: some time after the fall of the berlin wall
+System operational since: Some time after the fall of the Berlin wall
 Last update: Continuous learning
 Security patches: Daily
 Regression models: Optimized
