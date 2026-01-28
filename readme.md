@@ -1,3 +1,5 @@
+🌈知り得たりや？バアルが預言者、ネロさえを！
+
 # 🌟Cure Up RaPaPa❣️
 ```bash
 # USER PROFILE
