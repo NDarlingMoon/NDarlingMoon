@@ -15,7 +15,7 @@ SHELL="/usr/bin/zsh"
 TERM="xterm-256color"
 
 # SKILLS MATRIX
-SECURITY_TOOLS=("metasploit" "burpsuite" "nmap" "wireshark")
+SECURITY_TOOLS=("metasploit" "johntheripper" "nmap" "wireshark")
 AI_FRAMEWORKS=("tensorflow" "pytorch" "langchain" "openai")
 MATH_LIBS=("numpy" "scipy" "sympy" "pandas")
 LANGUAGES=("python" "java" "r" "bash" "sql")
@@ -39,4 +39,4 @@ Regression models: Optimized
 Confidence intervals: 95%
 ```
 
-Querendo aprender Python, R, Estatística ou DevOps? Configura meu guia: [Artigos Técnicos](https://github.com/NDarlingMoon/Artigos-Tecnicos)
+Querendo aprender Python, R, Estatística ou DevOps? Confira meu guia: [Artigos Técnicos](https://github.com/NDarlingMoon/Artigos-Tecnicos)
