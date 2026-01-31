@@ -1,4 +1,8 @@
-🌈知り得たりや？バアルが預言者、ネロさえを！
+🌈 🜙 知り得たや？
+🦄 🜬 此の世が女神、
+⚫ ♄ ネロさえを！
+⚪ ☽ 我こそ有て
+🔴 ☉ 在者なれり！
 
 # 🌟Cure Up RaPaPa❣️
 ```bash
@@ -34,3 +38,5 @@ Security patches: Daily
 Regression models: Optimized
 Confidence intervals: 95%
 ```
+
+Querendo aprender Python, R, Estatística ou DevOps? Configura meu guia: [Artigos Técnicos](https://github.com/NDarlingMoon/Artigos-Tecnicos)
